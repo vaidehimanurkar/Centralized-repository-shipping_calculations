@@ -18,3 +18,6 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+Footer:
+2022 XYZ, Inc.
